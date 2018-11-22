@@ -17,3 +17,8 @@ Exemple de projet permettant de tester la connexion sécurisée d'un utilisateur
 ## Back-end
 
 - Développement des services back-end avec Express JS
+
+# Autres technos utilisés
+
+- Bootstrap v4
+- Material v7
